@@ -1,2 +1,12 @@
 # vdot_engine
-A Python engine for generating structured running workouts using Jack Daniels’ VDOT methodology. Designed for experimentation with pacing models, workout generation, and endurance training systems.
+
+Python backend implementing Jack Daniels' VDOT methodology for generating running training paces and structured workouts.
+
+Planned features:
+
+- VDOT calculator
+- Training pace zones
+- Workout generator
+- Periodization logic
+- CSV export
+- Garmin workout export
